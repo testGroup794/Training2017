@@ -3,3 +3,4 @@
 + [x] version control
 + [x] teamwork
 + [ ] auto complete
+ :smirk: 
