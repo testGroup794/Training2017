@@ -2,5 +2,5 @@
 + [x] markdown
 + [x] version control
 + [x] teamwork
-+ [ ] auto complete
++ [ ] auto complete  
  :smirk: 
