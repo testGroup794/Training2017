@@ -10,5 +10,5 @@
     - [x] Sublime Text
     - [ ] Web Editor
 * [x] Picture Upload like ![Profile picture](https://github.com/testGroup794/Training2017/blob/master/images/Profile%20picture.png)
-* [x] Emoji like  :smirk: 
+* [x] [Emoji](http://emoji-cheat-sheet.com/) like  :smirk: 
 
