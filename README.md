@@ -20,7 +20,6 @@
         + ConvexHull2D.cpp
         + PointAndSegment.cpp
     - Java
-        + .DS_Store
         + CF-145C TLE(Map FileIO).java
         + HDU-6206 Apple(Geometry CircumCenter divide) .java
         + POJ-1625 Censored(AC_Automathon Matrix Queue).java
